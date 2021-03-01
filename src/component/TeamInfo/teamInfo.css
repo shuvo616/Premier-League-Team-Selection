@@ -1,0 +1,29 @@
+.selectInfo {
+    margin-top: 26px;
+    margin-left: 10px;
+    margin-right: 11px;
+    color: #080808;
+    padding: 15px;
+    box-shadow: 1px 2px 4px 2px #81ac9b;
+    height: 530px;
+    position: fixed;
+    width: 27%;
+}
+table tr{
+    border-bottom: 1px solid #fff;
+}
+table tr td{
+    padding-right: 33px;
+}
+table tr:last-child{
+    border-bottom: 0px solid #fff;
+}
+.textBlack{
+    color: #000;
+    font-weight: bold;
+    font-size: 19px;
+}
+.borderBottom{
+    text-align: center;
+    border-bottom: 1px solid #fff;
+}

@@ -1,0 +1,33 @@
+.playerList{
+    width: 27%;
+    margin: 26px 14px;
+    border-radius: 6px;
+    box-shadow: 1px 1px 5px 2px #2b7559b5;
+}
+.playerList img {
+    height: 250px;
+    width: 100%;
+}
+.playerList p {
+    font-weight: bold;
+    padding: 0px 12px;
+    margin: 2px 0px;
+}
+.playerList button {
+    border: 1px solid #1b1d1b;
+    padding: 6px 21px;
+    width: 83%;
+    margin: 0 auto;
+    margin-bottom: 26px;
+    display: block;
+    margin-top: 15px;
+    font-weight: 500;
+    border-radius: 10px;
+    color: #fff;
+    cursor: pointer;
+    background: black;
+}
+.playerList button:hover{
+    background: #fff;
+    color: green;
+}
